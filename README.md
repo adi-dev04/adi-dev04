@@ -19,7 +19,7 @@ I enjoy building web applications, exploring AI technologies, and turning ideas 
 
 **AI & Machine Learning Tools:** Ollama, Qwen 2.5
 
-**Database:** SQLite
+**Database:** SQLite,MySQL
 
 **Tools:** Git, GitHub, VS Code
 
